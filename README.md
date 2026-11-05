@@ -21,7 +21,7 @@ Fontes deste material:
 - [Textos da marca](#textos-da-marca)
 - [Contato e redes](#contato-e-redes)
 - [Marcas vendidas](#marcas-vendidas)
-- [Pendências](#pendências)
+- [Antes de imprimir](#antes-de-imprimir)
 - [Estrutura do repositório](#estrutura-do-repositório)
 
 ## Qual arquivo usar
@@ -34,7 +34,7 @@ Fontes deste material:
 | Espaço quadrado ou estreito | [`logos-guia/vertical-cor.png`](logos-guia/vertical-cor.png) |
 | Foto de perfil, avatar, favicon | [`icone-dental-integra-transparente.png`](icone-dental-integra-transparente.png) (479x479) ou [`logos-guia/icone-cor.png`](logos-guia/icone-cor.png) |
 | Impressão em uma cor, carimbo, fax | Versões `-preto` em [`logos-guia/`](logos-guia/) |
-| Impressão grande (fachada, banner, adesivo) | Ainda não existe arquivo adequado: ver [Pendências](#pendências) |
+| Impressão grande (fachada, banner, adesivo) | Ainda não existe arquivo adequado: ver [Antes de imprimir](#antes-de-imprimir) |
 
 ## Logo
 
@@ -195,12 +195,10 @@ Os arquivos originais estão em [`fonte-site/`](fonte-site/). O banner `TDV.png`
 
 Seção "Nossas Marcas" do site: Maquira, Dentsply, FGM, Orthometric, DFL, Ivoclar, 3M, Vigodent, American Burrs, Ultradent, Angelus, Rennova, TDV, Dentflex, Microdont.
 
-## Pendências
+## Antes de imprimir
 
-- **Logo em vetor (SVG, AI ou PDF):** não existe em nenhuma das fontes. Os logos do guia têm de 271 a 543 pixels de largura e servem para tela e redes sociais em tamanho pequeno. Para impressão grande, é preciso vetorizar o logo ou pedir o arquivo original a quem o criou.
-- **Cores para gráfica:** os valores CMYK do guia são a conversão matemática direta do RGB, sem perfil de cor de gráfica, e não há Pantone além do branco. Antes de imprimir, peça prova de cor.
-- **Fonte do nome no logo:** não identificada.
-- **Site:** a tarja diz "12x sem juros", mas os produtos mostram "12x com juros"; a página "Sobre a empresa" (`/empresa`) está vazia; o e-mail de contato é um endereço do Yahoo.
+- **Logo em vetor:** este kit não tem o logo em SVG, AI ou PDF vetorial. Os logos do guia têm de 271 a 543 pixels de largura e servem para tela e redes sociais em tamanho pequeno. Para impressão grande, peça o arquivo vetorial.
+- **Cores:** os valores CMYK do guia são a conversão direta do RGB, sem perfil de cor de gráfica, e não há Pantone além do branco. Peça prova de cor à gráfica.
 
 ## Estrutura do repositório
 
